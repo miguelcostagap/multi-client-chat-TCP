@@ -1,0 +1,4 @@
+--> if you write text in input box, and erase it all it --- crashes
+--> keyboard lib does not have all keys, including backspace, using backslash atm
+--> find another way to deal with keyboard, i can only get caps
+--> server commands won't work, since MyKeyboard does not have symbols :(
